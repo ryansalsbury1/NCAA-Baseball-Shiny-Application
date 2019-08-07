@@ -1,0 +1,13 @@
+name: NCAA_Base_2018_Shiny
+title: NCAA_Base_2018_Shiny
+username:
+account: rs868412
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 380272
+bundleId: 1481421
+url: https://rs868412.shinyapps.io/NCAA_Base_2018_Shiny/
+when: 1531680537.05251
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/Duke.png

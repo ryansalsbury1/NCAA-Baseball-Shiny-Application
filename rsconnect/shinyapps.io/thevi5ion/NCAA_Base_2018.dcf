@@ -1,0 +1,13 @@
+name: NCAA_Base_2018
+title: NCAA_Base_2018
+username:
+account: thevi5ion
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 386412
+bundleId: 1495641
+url: https://thevi5ion.shinyapps.io/NCAA_Base_2018/
+when: 1532367848.95539
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/.DS_Store|www/Duke.png
